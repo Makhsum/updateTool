@@ -1,0 +1,44 @@
+# .NET
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer patches
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows image file
+Thumbs.db
+
+# Windows Installer temporary files
+AppData/
+*.user
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Node.js files
+node_modules/
+
+# ASP.NET Core / IIS Express
+project.lock.json
+project.fragment.lock.json
